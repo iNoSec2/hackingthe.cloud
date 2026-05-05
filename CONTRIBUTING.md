@@ -32,7 +32,7 @@ __NOTE__: You do not have to run the Docker container to contribute. You can mak
 
 ## Using Cards
 
-If you'd like to use a card, for [example](https://hackingthe.cloud/aws/post_exploitation/create_a_console_session_from_iam_credentials/) `Technique seen in the wild`, `Tools mentioned in this article`, etc, __please be aware that you would need a subscription for [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/reference/grids/#using-card-grids) for the cards to be properly displayed on your local machine__. Simply copy and paste the template from the options below and it will be properly rendered on the site (we have a subscription to Material for MKDocs).
+If you'd like to use a card, for [example](https://hackingthe.cloud/aws/post_exploitation/create_a_console_session_from_iam_credentials/) `Technique seen in the wild`, `Tools mentioned in this article`, etc, copy and paste the template from the options below. Cards are supported by the public Material for MkDocs package used by the site.
 
 ### Card Templates
 

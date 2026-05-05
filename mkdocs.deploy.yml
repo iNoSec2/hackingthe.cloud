@@ -1,8 +1,8 @@
 INHERIT: mkdocs.yml
 plugins:
-  - social: # Added to .insiders.yml
-        cards_layout_dir: layouts
-        cards_layout: custom
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: custom
   - search
   - rss: # non-standard
       length: 200
