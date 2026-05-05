@@ -1,10 +1,13 @@
 ---
 author_name: Nick Frichette
-title: Break LLM Workflows with Claude's Refusal Magic String
+title: "[Deprecated] Break LLM Workflows with Claude's Refusal Magic String"
 description: How Anthropic's refusal test string can be abused to stop streaming responses and create sticky failures.
 ---
 
-# Claude Magic String Denial of Service
+# [Deprecated] Claude Magic String Denial of Service
+
+!!! Warning
+    As of May 2026, Anthropic has patched this behavior. The magic string no longer triggers the API error described below, so this technique should be considered deprecated. This page is maintained for historical and inspiration purposes.
 
 <div class="grid cards" markdown>
 -   :material-account:{ .lg .middle } __Original Research__
